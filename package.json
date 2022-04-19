@@ -1,0 +1,22 @@
+{
+  "name": "vchat",
+  "version": "1.0.0",
+  "description": "description ",
+  "main": "index.js",
+  "scripts": {
+    "test": "no command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "groverharleen"
+  },
+  "keywords": [
+    "video-chat"
+  ],
+  "author": "Harleen Grover",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
